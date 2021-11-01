@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuelthomson
+- 👋 Hi, I’m Samuel Thomson @samuelthomson
 - 👀 I’m interested in ... art, games, procedural generation, narrative design and storytelling, economics and sociology 
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... I don't know, throw something at me
